@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rahul Naik</h1> 
-<h3 align="center">Full Stack Developer | Shree L.R. Tiwari College of Engineering | DSA Enthusiast</h3> 
+<h3 align="center">Full Stack Developer | Aspiring Software Developer | DSA Enthusiast</h3> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI%2FML+%26+Data+Science+Enthusiast;Problem+Solver+%26+DSA+Learner&font=Fira+Code&center=true&color=00F7FF&width=600&height=50"/>
@@ -12,7 +12,7 @@
 ## About Me
 - B.E. in Information Technology at Shree L.R. Tiwari College of Engineering
 - Learning DSA & Full Stack Dev
-- Passionate about web projects & AI/ML
+- Passionate about Progressive Web Applications & AI/ML
 - Placement prep journey ongoing
 
 ## Tech Stack
@@ -54,22 +54,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Naik27&layout=compact&theme=tokyonight"/>
 </p>
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahul-Naik27&theme=onestar&no-frame=true"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yusufyusie/yusufyusie/main/line.gif"/>
-</p>
-
 ## Experience
+- **Full Stack Web Development Intern** — Codomax Digital Solutions & Beyonds (July 2026 – Present)
 - **Software Developer Intern** — Cognifyz Technologies (June 2025 – July 2025)
 - **AI/ML & Data Science Intern** — YBI Foundation (Feb 2025 – Aug 2025)
 
 ## Connect with Me
 - **GitHub:** [github.com/Rahul-Naik27](https://github.com/Rahul-Naik27)
 - **LinkedIn:** [linkedin.com/in/rahulnaik27-dev](https://linkedin.com/in/rahulnaik27-dev)
-- **Email:** rahuldnaik53@gmail.com
+- **Email:** naik2.7rahul@gmail.com
 
 Keep Learning, Keep Building, Keep Growing
